@@ -275,7 +275,7 @@ function Footer() {
           © {new Date().getFullYear()} Batuwa · Open-source · MIT License
         </p>
         <div className="footer-links">
-          <a href="https://github.com" target="_blank" rel="noreferrer" className="footer-link">GitHub</a>
+          <a href="https://github.com/ketanBisht/batuwa" target="_blank" rel="noreferrer" className="footer-link">GitHub</a>
           <a href={CHROME_URL} target="_blank" rel="noreferrer" className="footer-link">Chrome Store</a>
         </div>
       </div>
